@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scene/halaman play.unity
+    guid: 2e81f5f4ee9c06c4e8710a02ebd6da7c
+  - enabled: 1
+    path: Assets/scene/media tanam.unity
+    guid: 555ddb366542599428d0df2f84f14c60
+  - enabled: 1
+    path: Assets/scene/alat.unity
+    guid: 15cc9b8f76800374eadf451dbec71413
+  - enabled: 1
+    path: Assets/scene/model.unity
+    guid: 0059923b9d10f1b4885dfc34be5edef7
+  - enabled: 1
+    path: Assets/scene/luas.unity
+    guid: 2621b09c5f0c9424bb65eb635aa7be95
+  - enabled: 1
+    path: Assets/scene/3D.unity
+    guid: 8ae8eab2eacdb374381a0cefcf076b34
+  - enabled: 1
+    path: Assets/scene/design.unity
+    guid: 7f558555f6402f84ebeeabfba88e8e37

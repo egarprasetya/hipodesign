@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="percobaan1.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\3D\generateObject.cs">
+    <Files>
+      <File FileName="Assets\scripts\3D\changeSize.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\3D\cameraRotation.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\3D\generateObject.cs" Line="59" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
